@@ -430,3 +430,12 @@ Small Device Styles
   }
 
 }
+
+/*************************************/
+/* Custom styles
+/*************************************/
+
+.hidden-link {
+    text-decoration: none;
+    color: inherit;
+}
