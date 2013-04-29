@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A _Myc_ enhancer confers resistance to intestinal tumors
+title: A <em>Myc</em> enhancer confers resistance to intestinal tumors
 category: examples
 ---
 
