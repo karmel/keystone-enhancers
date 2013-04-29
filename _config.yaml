@@ -2,7 +2,7 @@ safe:        true
 auto:        false
 server:      false
 baseurl:    /keystone-enhancers
-url: http://karmel.github.io
+url: http://karmel.github.io/keystone-enhancers
 
 source:      .
 destination: ./_site
