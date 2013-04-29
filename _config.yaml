@@ -1,0 +1,15 @@
+safe:        true
+auto:        false
+server:      false
+baseurl:    /keystone-enhancers
+url: http://karmel.github.io
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+future:      true
+lsi:         false
+pygments:    true
+markdown:    maruku
+permalink:   date
