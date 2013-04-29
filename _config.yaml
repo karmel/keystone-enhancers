@@ -12,4 +12,4 @@ future:      true
 lsi:         false
 pygments:    true
 markdown:    maruku
-permalink:   date
+permalink:   /:baseurl/:categories/:year/:month/:day/:title.html
