@@ -1,4 +1,4 @@
 keystone-enhancers
 ==================
 
-In pursuit of keystone enhancers, which have an outsized on gene expression.
+We set off in pursuit of enhancers with an outsized effect on gene expression.
