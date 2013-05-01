@@ -11,7 +11,7 @@ Visser M, Kayser M, Palstra RJ. HERC2 rs12913832 modulates human pigmentation by
 The authors find that a previously identified SNP that is highly correlated with Oca2 expression levels and thus pigmentation is located within an enhancer. The T-allele at this SNP results in more TF binding, more looping to the Oca2 promoter, and more Oca2 expression, thus elucidating how this SNP might be associated with variation in pigmentation in humans.
 
 #### Notes on the paper
-<img class="examples-image-right" src="{{ site.baseurl}}/images/examples/2012-03-22-SNP-in-an-enhancer-of-oca2-modulates-pigmentation_fig1.png" alt="Visser et al. Figure 1B-C" title="Figure 1B-C" />
+<img class="examples-image-right" src="{{ site.baseurl}}/images/examples/2012-03-22-SNP-in-an-enhancer-of-oca2-modulates-pigmentation_fig1.png" alt="Visser et al Figure 1B-C" title="Visser et al Figure 1B-C" />
 
 * A SNP highly correlated with Oca2 expression and therefore pigmentation was previously identified: rs12913832
 * rs12913832 is located in an intron of Herc2, 21kb upstream of Oca2
@@ -29,10 +29,11 @@ The authors find that a previously identified SNP that is highly correlated with
 * Less HLTF correlates with reduced recruitment of cooperating TFs MITF and LEF1.
 * Overexpression of HLTF increases Oca2 expression in HEMn-DP, but not HEMn-LP. 
 * On the other hand, overexpression of MITF increases Oca2 expression in HEMn-LP but not HEMn-DP, implying MITF levels are not limiting in HEMn-DP, but that the reduced recruitment of MITF by HLTF in HEMn-DP is.
-* A number of controls for other SNPs in the Herc/Oca2 region.
+* A number of controls for other SNPs in the Herc2/Oca2 region.
 
 #### Observations
 
 * A single nucleotide change compromises the enhancer's efficiency and results in decreased gene expression: a keystone enhancer.
 * The enhancer is melanocyte specific, and nearby enhancers are ruled out based on their existence in other cell types.
-* 
+* Little ENCODE signal around the region for most cell types
+* Nearby ENCODE DHS regions in Melano cells (epidermal melanocytes)
