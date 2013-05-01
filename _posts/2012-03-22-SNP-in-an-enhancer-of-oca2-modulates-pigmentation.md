@@ -9,7 +9,7 @@ Visser M, Kayser M, Palstra RJ. HERC2 rs12913832 modulates human pigmentation by
 ### Summary
 The authors find that a previously identified SNP that is highly correlated with Oca2 expression levels and thus pigmentation is located within an enhancer. The T-allele at this SNP results in more TF binding, more looping to the Oca2 promoter, and more Oca2 expression, thus elucidating how this SNP might be associated with variation in pigmentation in humans.
 
-<div class="examples-image-right">![Figure 1B-C]({{ site.baseurl}}/images/examples/2012-03-22-SNP-in-an-enhancer-of-oca2-modulates-pigmentation_fig1.png "Figure 1B-C")</div>
+<div class="examples-image-right"> ![Figure 1B-C]({{ site.baseurl}}/images/examples/2012-03-22-SNP-in-an-enhancer-of-oca2-modulates-pigmentation_fig1.png "Figure 1B-C") </div>
 ### Notes on the paper
 * A SNP highly correlated with Oca2 expression and therefore pigmentation was previously identified: rs12913832
 * rs12913832 is located in an intron of Herc2, 21kb upstream of Oca2
