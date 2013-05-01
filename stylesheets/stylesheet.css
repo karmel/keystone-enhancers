@@ -439,3 +439,9 @@ Small Device Styles
     text-decoration: none;
     color: inherit;
 }
+
+.examples-image-right {
+	float: right;
+	margin: 20 0 20;
+	width: 50%;
+}
