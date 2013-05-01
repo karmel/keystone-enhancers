@@ -6,11 +6,11 @@ category: examples
 
 Visser M, Kayser M, Palstra RJ. HERC2 rs12913832 modulates human pigmentation by attenuating chromatin-loop formation between a long-range enhancer and the OCA2 promoter. _Genome Res_. 2012 Mar;22(3):446-55. <a class="pubmed-link" href="http://www.ncbi.nlm.nih.gov/pubmed/22234890" target="_blank">[Pubmed]</a>
 
-### Summary
+#### Summary
 
 The authors find that a previously identified SNP that is highly correlated with Oca2 expression levels and thus pigmentation is located within an enhancer. The T-allele at this SNP results in more TF binding, more looping to the Oca2 promoter, and more Oca2 expression, thus elucidating how this SNP might be associated with variation in pigmentation in humans.
 
-### Notes on the paper
+#### Notes on the paper
 <img class="examples-image-right" src="{{ site.baseurl}}/images/examples/2012-03-22-SNP-in-an-enhancer-of-oca2-modulates-pigmentation_fig1.png" alt="Visser et al. Figure 1B-C" title="Figure 1B-C" />
 
 * A SNP highly correlated with Oca2 expression and therefore pigmentation was previously identified: rs12913832
@@ -31,7 +31,7 @@ The authors find that a previously identified SNP that is highly correlated with
 * On the other hand, overexpression of MITF increases Oca2 expression in HEMn-LP but not HEMn-DP, implying MITF levels are not limiting in HEMn-DP, but that the reduced recruitment of MITF by HLTF in HEMn-DP is.
 * A number of controls for other SNPs in the Herc/Oca2 region.
 
-### Observations
+#### Observations
 
 * A single nucleotide change compromises the enhancer's efficiency and results in decreased gene expression: a keystone enhancer.
 * The enhancer is melanocyte specific, and nearby enhancers are ruled out based on their existence in other cell types.
