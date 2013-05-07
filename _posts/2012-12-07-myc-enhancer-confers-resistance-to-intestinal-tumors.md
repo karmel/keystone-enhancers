@@ -33,4 +33,4 @@ The SNP rs6983267 has previously been associated with tumorigenesis. In this stu
 * Encode shows high level of cell-specific H3K27Ac in lung fibroblast line (NHLF), and DHS sites in another lung fibroblast.
 * Many TF sites surrounding the SNP, including for CTCF and Stat3
 
-<img class="examples-image" src="{{ site.baseurl }}/images/examples/2012-12-07-myc-enhancer-confers-resistance-to-intestinal-tumors_encode_1.png" alt="ENCODE data at rs6983267" title="Encode data at rs6983267" />
+<img class="examples-image encode" src="{{ site.baseurl }}/images/examples/2012-12-07-myc-enhancer-confers-resistance-to-intestinal-tumors_encode_1.png" alt="ENCODE data at rs6983267" title="Encode data at rs6983267" />
