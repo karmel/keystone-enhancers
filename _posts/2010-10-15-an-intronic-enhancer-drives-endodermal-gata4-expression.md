@@ -35,7 +35,7 @@ The transcription factor Gata4 is essential for gut morphogenesis, and is expres
 * An interesting case where gene expression is not necessarily tissue-specific, but where the gene is perhaps controlled by different enhancers in different tissues
 * Notably, the authors demonstrate that G4 is sufficient to drive a transgene, but not that it is necessary or sufficient for Gata4 expression in endodermal tissue; this is not a proven keystone enhancer
 * Conservation here as a crucial metric
-* ENCODE shows robust Foxa1/2, HNF4a, HDAC2, Sp1, and CEBPb binding in HepG2 cells
+* ENCODE shows robust Foxa1/2, HNF4a, HDAC2, Sp1, and CEBPb binding in HepG2 (hepatocellular carcinoma) cells
 * In hESCs, silencing mark (H3K27me3)
 
 <img class="examples-image encode" src="{{ site.baseurl }}/images/examples/2010-10-15-an-intronic-enhancer-drives-endodermal-gata4-expression_encode_1.png" alt="G4 enhancer via ENCODE" title="G4 enhancer via ENCODE" />
