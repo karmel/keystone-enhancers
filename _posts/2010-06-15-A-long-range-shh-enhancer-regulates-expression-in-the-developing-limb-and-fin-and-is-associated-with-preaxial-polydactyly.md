@@ -32,4 +32,3 @@ Sonic Hedge Hog (Shh) expression levels are associated with congenital limb malf
 * This study identifies a disease-relevant enhancer and its mechanism of action, shows that it's relevant in multiple organisms, and partially sequence several species and hundreds of individuals, all before the completed human genome. Why is this not in a big-name journal? Am I missing some major flaw?
 * Being able to tie to point mutations in mice and humans is critical here. Otherwise, the transgenes show the enhancer is sufficient but not specifically necessary. 
 * Again we see conservation as an important determining factor, both in finding the enhancer and in the nucleotides that seem to matter when mutated.
-* @todo: ENCODE data?
