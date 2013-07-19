@@ -14,7 +14,7 @@ Populations of stickleback fish have repeatedly lost pelvic structures. Genome-w
 
 * Most sticklebacks have a pelvis, but over two dozen strains have separately lost the pelvic structure, presumably due to positive selection of a more streamlined body.
 * Linkage analysis identified a region that is highly associated with the size of the pelvic structure across many strains
-* These region contains Pitx1, which is necessary for hindlimb development in other animals
+* This region contains Pitx1, which is necessary for hindlimb development in other animals
 * The coding region of Pitx1 itself is not changing among the strains
 * In order to rule out whole-body developmental deffects, the authors cross a fish with a pelvis and without, and show that the F1 has preferential expression of the Pitx1 gene from the pelvis-containing fish in the pelvic tissue, but normal expression of Pitx1 in the head.
 * High-resolution mapping of crosses revealed a 124kb region around Pitx1 that was crucial to pelvic phenotype
